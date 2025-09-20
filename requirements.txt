@@ -1,3 +1,5 @@
+chromadb
+PyPDF2
 streamlit
 langchain
 langchain-community
