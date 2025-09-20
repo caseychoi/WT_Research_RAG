@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+pypdf
+faiss-cpu
+python-dotenv
+huggingface-hub
+transformers
+ollama
+
